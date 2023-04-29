@@ -110,15 +110,6 @@
   </url>
   
   <url>
-    <loc>https://www.bxljm.club/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.bxljm.club/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -128,7 +119,16 @@
   </url>
   
   <url>
-    <loc>https://www.bxljm.club/life/games/index.html</loc>
+    <loc>https://www.bxljm.club/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bxljm.club/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://www.bxljm.club/personal/love/index.html</loc>
+    <loc>https://www.bxljm.club/life/games/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -155,7 +155,16 @@
   </url>
   
   <url>
-    <loc>https://www.bxljm.club/life/music/index.html</loc>
+    <loc>https://www.bxljm.club/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bxljm.club/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -174,15 +183,6 @@
   
   <url>
     <loc>https://www.bxljm.club/site/census/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.bxljm.club/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
